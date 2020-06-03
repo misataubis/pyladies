@@ -1,7 +1,7 @@
 from random import randrange
 cislo = randrange (3)
 if cislo == 0: tah_pocitace = 'kámen'
-elif cislo == 1 : tah_pocitace = 'nůžky'
+elif cislo == 1: tah_pocitace = 'nůžky'
 else: tah_pocitace = 'papír'
 
 tah_cloveka = input('kámen, nůžky, nebo papír? ')
