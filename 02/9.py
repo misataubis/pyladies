@@ -8,7 +8,7 @@ if cislo == 1:
 elif cislo == 0:
     tah_pocitace ='kámen'
     print('kámen')
-else: tah_pocitace = print('papír')
+else: tah_pocitace = print('papír!!')
    
     
 
